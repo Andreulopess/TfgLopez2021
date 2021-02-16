@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac483624-c477-4b0d-bbc3-8277b0b24e5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YwpwdmgsvU9POeW9F86RUhghgd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.conda/envs/nao/bin" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.ImitacionControl">
+    <configuration name="ImitacionControl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Andreu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Linux131118/TFG Guerrero/EmocionesImitacion" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Linux131118/TFG Guerrero/EmocionesImitacion/ImitacionControl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cara" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Andreu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cara.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="caraipell" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Andreu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/caraipell.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="contorns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Andreu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pell by miquel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pell by miquel/contorns.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="versioOpenCV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Andreu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/versioOpenCV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ImitacionControl" />
+        <item itemvalue="Python.caraipell" />
+        <item itemvalue="Python.versioOpenCV" />
+        <item itemvalue="Python.cara" />
+        <item itemvalue="Python.contorns" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac483624-c477-4b0d-bbc3-8277b0b24e5c" name="Default Changelist" comment="" />
+      <created>1583863926749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583863926749</updated>
+      <workItem from="1583863929789" duration="9000" />
+      <workItem from="1583863991394" duration="15000" />
+      <workItem from="1583930518413" duration="1992000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="780" y="297" key="FileChooserDialogImpl" timestamp="1584093153785">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="780" y="297" key="FileChooserDialogImpl/65.24.1855.1056/1920.0.1280.1024@65.24.1855.1056" timestamp="1584093153785" />
+    <state width="1855" height="307" key="GridCell.Tab.0.bottom" timestamp="1584093244056">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1354" height="269" key="GridCell.Tab.0.bottom/1280.0.1920.1080/65.24.1215.1000@1280.0.1920.1080" timestamp="1583864002630" />
+    <state width="1855" height="307" key="GridCell.Tab.0.bottom/65.24.1855.1056/1920.0.1280.1024@65.24.1855.1056" timestamp="1584093244056" />
+    <state width="1855" height="307" key="GridCell.Tab.0.center" timestamp="1584093244056">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1354" height="269" key="GridCell.Tab.0.center/1280.0.1920.1080/65.24.1215.1000@1280.0.1920.1080" timestamp="1583864002630" />
+    <state width="1855" height="307" key="GridCell.Tab.0.center/65.24.1855.1056/1920.0.1280.1024@65.24.1855.1056" timestamp="1584093244056" />
+    <state width="1855" height="307" key="GridCell.Tab.0.left" timestamp="1584093244056">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1354" height="269" key="GridCell.Tab.0.left/1280.0.1920.1080/65.24.1215.1000@1280.0.1920.1080" timestamp="1583864002629" />
+    <state width="1855" height="307" key="GridCell.Tab.0.left/65.24.1855.1056/1920.0.1280.1024@65.24.1855.1056" timestamp="1584093244056" />
+    <state width="1855" height="307" key="GridCell.Tab.0.right" timestamp="1584093244056">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1354" height="269" key="GridCell.Tab.0.right/1280.0.1920.1080/65.24.1215.1000@1280.0.1920.1080" timestamp="1583864002630" />
+    <state width="1855" height="307" key="GridCell.Tab.0.right/65.24.1855.1056/1920.0.1280.1024@65.24.1855.1056" timestamp="1584093244056" />
+    <state x="486" y="174" key="SettingsEditor" timestamp="1583930737462">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="486" y="174" key="SettingsEditor/65.24.1855.1056/1920.0.1280.1024@65.24.1855.1056" timestamp="1583930737462" />
+    <state x="666" y="385" key="com.intellij.ide.util.TipDialog" timestamp="1583930517325">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1902" y="369" key="com.intellij.ide.util.TipDialog/1280.0.1920.1080/65.24.1215.1000@1280.0.1920.1080" timestamp="1583863992822" />
+    <state x="666" y="385" key="com.intellij.ide.util.TipDialog/65.24.1855.1056/1920.0.1280.1024@65.24.1855.1056" timestamp="1583930517325" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Andreu$contorns.coverage" NAME="contorns Coverage Results" MODIFIED="1583930780444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pell by miquel" />
+    <SUITE FILE_PATH="coverage/Andreu$cara.coverage" NAME="cara Coverage Results" MODIFIED="1583951956087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Andreu$ImitacionControl.coverage" NAME="ImitacionControl Coverage Results" MODIFIED="1584093192455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Linux131118/TFG Guerrero/EmocionesImitacion" />
+    <SUITE FILE_PATH="coverage/Andreu$versioOpenCV.coverage" NAME="versioOpenCV Coverage Results" MODIFIED="1584084645698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Andreu$caraipell.coverage" NAME="caraipell Coverage Results" MODIFIED="1584084661126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
