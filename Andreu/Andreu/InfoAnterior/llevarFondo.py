@@ -50,4 +50,4 @@ masked = (masked * 255).astype('uint8')
 
 cv2.imshow('img', masked)                                   # Display
 cv2.waitKey()
-cv2.imwrite("WTF.jpg",masked)
+cv2.imwrite("WTF.jpg", masked)
